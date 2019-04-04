@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int a()
+int main()
 {
 	printf("1314");
 	return 0;
